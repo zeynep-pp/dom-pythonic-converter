@@ -1,0 +1,10 @@
+
+sudo apt-get install -y python-xmltodict
+
+
+Example input
+python 2014510056.py <inputfile> <outputfile> <type>
+
+inputfile "test2.csv"
+outputfile "test.xml"
+type 2
